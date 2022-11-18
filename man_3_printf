@@ -1,5 +1,5 @@
 .\" Manpage for _printf
-.TH _printf (3) "11/17/202" "1.0" "_printf Programmer's Manual"
+.TH man _printf "17 Nov 2022" "_printf Programmer's Manual"
 
 .SH NAME
 
@@ -62,4 +62,7 @@ On success, _printf returns the number of printed characters. If formats is erro
 
 .SH AUTHORS
 
-Bahru Mohammed, Behailu Adefirs
+.NM
+Bahru Mohammed,
+
+Behailu Adefirs
