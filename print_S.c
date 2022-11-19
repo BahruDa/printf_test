@@ -62,8 +62,3 @@ int print_HEXA_S(char s, char *output_p, int o_p)
 		output_p[o_p] = hexa[x - 1];
 	return (o_p);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
