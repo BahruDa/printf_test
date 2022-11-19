@@ -6,6 +6,7 @@
 * @o_p: output position
 *
 * Description: Fuction that print %
+*
 * Return: the int
 */
 int print_percent(va_list vlist, char *output_p, int o_p)
