@@ -5,7 +5,6 @@ char *p_binary(int n);
  * @vlist: argument passed to print
  * @output_p: Host output
  * @o_p: Output position
- *
  * Description: print number
  * Return: 0
  */
