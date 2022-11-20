@@ -8,6 +8,7 @@
 
 /**
  * struct format - Struct for format
+ * 
  * @specifiers: Struct format
  * @f: The function associated
  */
