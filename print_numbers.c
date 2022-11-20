@@ -4,7 +4,6 @@
  * @output_p: Host output
  * @o_p: output position
  * @n: int
- *
  * Description: Function that print a char
  * Return: int
  */

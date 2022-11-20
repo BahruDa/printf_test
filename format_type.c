@@ -2,7 +2,6 @@
 /**
  * format_type - type of function
  * @s: input
- *
  * Description: Function to get the type function
  * Return: type or null
  */

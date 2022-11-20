@@ -3,7 +3,6 @@
 * @str: Input
 *
 * Description: Lenght of the string
-*
 * Return: The lenght
 */
 int s_trlen(char *str)

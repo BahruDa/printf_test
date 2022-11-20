@@ -4,7 +4,6 @@
  * @vlist: arguments passed to print
  * @output_p: Host output
  * @o_p: output position
- *
  * Description: Function that print a char
  * Return: int
  */

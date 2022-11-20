@@ -3,7 +3,7 @@
  * _printf - Print all this parameters
  * @format: input
  *
- * Description: function that prints output
+ * Description: function that prints output.
  *
  * Return: The output character or num
  */
