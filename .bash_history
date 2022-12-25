@@ -194,3 +194,26 @@ git commit -v 'test'
 git push
 git push --set-upstream origin master
 exit
+ls
+git push --set-upstream origin master
+git remote add origin https://github.com/BahruDa/printf_test.git
+git pull
+git push
+git push --set-upstream origin master
+git clone https://github.com/BahruDa/printf_test
+git push
+git push --set-upstream origin master
+git push -u origin master
+git commit -m "initial commit"
+git add .
+git commit -m "initial commit"
+git push origin master
+ssh -T git@github.com
+pkg install openssh
+ssh -T git@github.com
+pkg install dropbear
+ssh -T git@github.com
+  git push
+push.autosetupremote
+push.autosetupRemote
+exit
