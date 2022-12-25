@@ -2,4 +2,6 @@
 	email = bahrudari68@gmail.com
 	name = BahruDa
 [credential]
-	helper = osxkeychain
+	helper = winstore
+[push]
+	autoSetupRemote = true
