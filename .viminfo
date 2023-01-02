@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1672679663,,"wq"
+|2,0,1672684667,,"wq"
 :wq 
-|2,0,1672674170,,"wq "
+|2,0,1672682993,,"wq "
 
 # Search String History (newest to oldest):
 
@@ -29,233 +29,345 @@
 # global variables:
 
 # File marks:
-'0  2  14  ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-|4,48,2,14,1672679663,"~/alx-higher_level_programming/0x00-python-hello_world/0-run"
-'1  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,49,2,19,1672679545,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
-'2  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,50,1,26,1672679351,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
-'3  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,51,2,19,1672674486,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
-'4  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,52,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
-'5  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,53,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
-'6  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,54,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
-'7  2  14  ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-|4,55,2,14,1672674051,"~/alx-higher_level_programming/0x00-python-hello_world/0-run"
-'8  24  19  ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
-|4,56,24,19,1672673321,"~/alx-higher_level_programming/0x00-python-hello_world/lists.h"
-'9  2  13  ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-|4,57,2,13,1672673046,"~/alx-higher_level_programming/0x00-python-hello_world/0-run"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1672684667,"~/.git/COMMIT_EDITMSG"
+'1  2  10  ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+|4,49,2,10,1672683497,"~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py"
+'2  5  9  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,50,5,9,1672683443,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+'3  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,51,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+'4  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,52,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+'5  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,53,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+'6  3  36  ~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
+|4,54,3,36,1672683271,"~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py"
+'7  3  42  ~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
+|4,55,3,42,1672683235,"~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py"
+'8  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
+|4,56,2,60,1672683199,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
+'9  3  23  ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
+|4,57,3,23,1672683090,"~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py"
 
 # Jumplist (newest first):
--'  2  14  ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-|4,39,2,14,1672679663,"~/alx-higher_level_programming/0x00-python-hello_world/0-run"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-|4,39,1,0,1672679644,"~/alx-higher_level_programming/0x00-python-hello_world/0-run"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672679545,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672679545,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,0,1672679526,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,0,1672679526,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672679351,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672679351,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672679351,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672679351,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672674486,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672674486,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672674486,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,2,19,1672674486,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  37  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,37,1672674454,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  37  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,37,1672674454,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  37  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,37,1672674454,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  37  ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-|4,39,1,37,1672674454,"~/alx-higher_level_programming/0x00-python-hello_world/main.py"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  1  26  ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-|4,39,1,26,1672674389,"~/alx-higher_level_programming/0x00-python-hello_world/README.md"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  60  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,2,60,1672674282,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-|4,39,1,0,1672674265,"~/alx-higher_level_programming/0x00-python-hello_world/2-print.py"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
--'  2  19  ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-|4,39,2,19,1672674170,"~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1672684667,"~/.git/COMMIT_EDITMSG"
+-'  2  10  ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+|4,39,2,10,1672683497,"~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py"
+-'  2  10  ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+|4,39,2,10,1672683497,"~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+|4,39,1,0,1672683467,"~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+|4,39,1,0,1672683467,"~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py"
+-'  5  9  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,5,9,1672683443,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  5  9  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,5,9,1672683443,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  5  9  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,5,9,1672683443,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  5  9  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,5,9,1672683443,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,1,0,1672683422,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,1,0,1672683422,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,1,0,1672683422,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+|4,39,1,0,1672683422,"~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  8  43  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,8,43,1672683405,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+|4,39,1,0,1672683380,"~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  5  35  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,5,35,1672683363,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+|4,39,1,0,1672683332,"~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  4  13  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,4,13,1672683308,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
+-'  1  0  ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+|4,39,1,0,1672683292,"~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py"
 
 # History of marks within files (newest to oldest):
 
+> ~/.git/COMMIT_EDITMSG
+	*	1672684664	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+	*	1672683494	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+	*	1672683439	0
+	"	5	9
+	^	5	10
+	.	5	9
+	+	5	9
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+	*	1672683403	0
+	"	8	43
+	^	8	44
+	.	8	43
+	+	8	43
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+	*	1672683360	0
+	"	5	35
+	^	5	36
+	.	5	35
+	+	5	35
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+	*	1672683305	0
+	"	4	13
+	^	4	14
+	.	4	13
+	+	4	13
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
+	*	1672683267	0
+	"	3	36
+	^	3	37
+	.	3	36
+	+	3	36
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
+	*	1672683232	0
+	"	3	42
+	^	3	43
+	.	3	42
+	+	3	42
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
+	*	1672683195	0
+	"	2	60
+	^	2	61
+	.	2	60
+	+	2	60
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
+	*	1672683084	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	3	23
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/101-compile
+	*	1672683034	0
+	"	2	31
+	^	2	32
+	.	2	31
+	+	2	31
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
+	*	1672682990	0
+	"	4	10
+	^	4	11
+	.	4	10
+	+	4	10
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c
+	*	1672682956	0
+	"	25	0
+	^	25	1
+	.	25	0
+	+	25	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
+	*	1672682907	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+	+	2	19
+	+	2	18
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
+	*	1672682663	0
+	"	25	19
+	^	25	20
+	.	25	19
+	+	1	21
+	+	1	0
+	+	1	448
+	+	1	242
+	+	24	19
+	+	25	19
+
 > ~/alx-higher_level_programming/0x00-python-hello_world/0-run
-	*	1672679660	0
+	*	1672682208	0
 	"	2	14
 	^	2	15
 	.	2	14
@@ -263,8 +375,15 @@
 	+	2	13
 	+	2	14
 
+> ~/alx-higher_level_programming/0x00-python-hello_world/README.md
+	*	1672682122	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
 > ~/alx-higher_level_programming/0x00-python-hello_world/main.py
-	*	1672679542	0
+	*	1672682028	0
 	"	2	19
 	^	2	20
 	.	2	19
@@ -272,39 +391,6 @@
 	+	1	2
 	+	1	18
 	+	2	19
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/README.md
-	*	1672679347	0
-	"	1	26
-	^	1	27
-	.	1	26
-	+	1	26
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
-	*	1672674279	0
-	"	2	60
-	^	2	61
-	.	2	60
-	+	2	60
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
-	*	1672674167	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	18
-	+	2	19
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
-	*	1672673317	0
-	"	24	19
-	^	24	20
-	.	24	19
-	+	1	21
-	+	1	0
-	+	1	448
-	+	1	242
-	+	24	19
 
 > ~/alx-higher_level_programming/.git/MERGE_MSG
 	*	1672672875	0
@@ -327,27 +413,6 @@
 	.	63	0
 	+	63	0
 
-> ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
-	*	1672632841	0
-	"	3	23
-	^	3	24
-	.	3	23
-	+	3	23
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/101-compile
-	*	1672632799	0
-	"	2	31
-	^	2	32
-	.	2	31
-	+	2	31
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
-	*	1672632738	0
-	"	4	10
-	^	4	11
-	.	4	10
-	+	4	10
-
 > ~/alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c,
 	*	1672632570	0
 	"	15	0
@@ -355,55 +420,6 @@
 	.	15	0
 	+	25	0
 	+	15	0
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
-	*	1672632403	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
-	*	1672632321	0
-	"	5	9
-	^	5	10
-	.	5	9
-	+	5	9
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
-	*	1672632277	0
-	"	8	42
-	^	8	44
-	.	8	43
-	+	8	43
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
-	*	1672632227	0
-	"	5	35
-	^	5	36
-	.	5	35
-	+	5	35
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
-	*	1672632179	0
-	"	4	12
-	^	4	14
-	.	4	13
-	+	4	13
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
-	*	1672632123	0
-	"	3	36
-	^	3	37
-	.	3	36
-	+	3	36
-
-> ~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
-	*	1672632051	0
-	"	3	42
-	^	3	43
-	.	3	42
-	+	3	42
 
 > ~/test/.git/COMMIT_EDITMSG
 	*	1671979591	0
